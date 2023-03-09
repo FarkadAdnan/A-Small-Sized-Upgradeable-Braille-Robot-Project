@@ -58,5 +58,20 @@ Chapter 4 code_Project_7 The Third Part 3 of "The Arduino World Book" code_Proje
 
 ![555](https://user-images.githubusercontent.com/35774039/223853327-5b41d576-37d9-41cd-aae8-e40747fc4844.PNG)
 
+# References:
 
+- www.utopiamechanicus.com. (s.f.). Obtenido de www.utopiamechanicus.com: https://www.utopiamechanicus.com/article/open-source-hardware-braille-display/
+- www.maxiaids.com. (2019). Obtenido de www.maxiaids.com: https://www.maxiaids.com/orbit-reader-20
+- www.bridges-canada.com. (s.f.). Obtenido de www.bridges-canada.com: https://www.bridges-canada.com/products/braillenote-touch-18-32?variant=12943795617874
+- compartolid.es. (s.f.). Obtenido de compartolid.es: https://www.compartolid.es/index-everest-d-v5/
+- www.flying-blind.com. (s.f.). Obtenido de www.flying-blind.com: http://www.flying-blind.com/tidbits2017.html
+- galerias.bid-dimad.org. (s.f.). Obtenido de galerias.bid-dimad.org: http://galerias.bid-dimad.org/septimoencuentro/es/ibis-impresora-braille-open-source/
+- braillerap.com. (s.f.). Obtenido de braillerap.com: https://braillerap.com/
+- Brewster, S. (11 de Enero de 2016). www.technologyreview.com. Obtenido de www.technologyreview.com: https://www.technologyreview.com/s/545301/in-pursuit-of-an-affordable-tablet-for-the-blind/
+- compartolid.es. (s.f.). Obtenido de compartolid.es: https://www.compartolid.es/index-everest-d-v5/
+- Varada, V. R. (2016). hackaday.io. Obtenido de hackaday.io: https://hackaday.io/project/10849-refreshable-braille-display
+- "cccampos7". (2017). www.instructables.com. Obtenido de www.instructables.com: https://www.instructables.com/id/OpenBraille-a-DIY-Braille-Embosser/
+- "pyrophreek". (17 de Mayo de 2013). www.thingiverse.com. Obtenido de www.thingiverse.com: https://www.thingiverse.com/thing:90144
+
+ 
 
